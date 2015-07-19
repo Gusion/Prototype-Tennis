@@ -1,2 +1,2 @@
 # Prototype-Tennis
-creating game base on tennis mechanic, like Pong
+creating game base on tennis mechanics, like Pong
